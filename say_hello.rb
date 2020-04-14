@@ -1,6 +1,6 @@
 # Build your say_hello method here
 
-def say_hello (name, name = Ruby Prorammer)
+def say_hello (name = "Ruby Prorammer")
   puts "Hello #{name}!"
 end
 
