@@ -6,3 +6,4 @@ end
 
 say_hello("Danielle")
 say_hello("name")
+say_hello
